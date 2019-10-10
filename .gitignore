@@ -354,3 +354,7 @@ iOSInjectionProject/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/swift,xcode,reactnative
+
+PoC-RN-Cookies/PoC-RN-Cookies.xcworkspace/contents.xcworkspacedata
+
+PoC-RN-Cookies/PoC-RN-Cookies.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist

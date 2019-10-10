@@ -1,0 +1,6 @@
+framework module Pods_PoC_RN_Cookies {
+  umbrella header "Pods-PoC-RN-Cookies-umbrella.h"
+
+  export *
+  module * { export * }
+}
