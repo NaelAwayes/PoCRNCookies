@@ -18,6 +18,11 @@ class ViewController: UIViewController {
     @IBAction func callRequest(_ sender: Any) {
         client.getPosts()
     }
+    
+    @IBAction func showCookies(_ sender: Any) {
+        var cookie = HTTPCookieStorage.shared.cookies
+        dump(cookie)
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
