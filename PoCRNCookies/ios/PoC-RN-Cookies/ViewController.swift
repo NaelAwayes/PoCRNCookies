@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         )
         let vc = UIViewController()
         vc.view = rootView
-        self.present(vc, animated: true, completion: nil)
+        self.show(vc, sender: nil)
     }
     
     @IBAction func callRequest(_ sender: Any) {
