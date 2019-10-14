@@ -1,6 +1,6 @@
 # PoCRNCookies
 
-###How to Run
+### How to Run
 - In a terminal: cd PoCRNCookies/PoCRNCookies && npm start
 (check that the react-native server is running on port 8081)
 
